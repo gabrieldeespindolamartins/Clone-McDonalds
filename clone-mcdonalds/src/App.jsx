@@ -1,9 +1,12 @@
 import React from 'react'
+import HeroSection from './components/HeroSection'
 
-export default function App() {
+const App = () => {
   return (
     <div>
-      ola
+      <HeroSection/>
     </div>
   )
 }
+
+export default App
