@@ -71,7 +71,7 @@ const Carrosel = () => {
     <div className='mx-auto my-4 w-full md:w-[85%]'>
       <Swiper 
         slidesPerView="auto"
-        spaceBetween={16}
+        spaceBetween={20}
       >
         {cards.map((card, index) =>(
           <SwiperSlide key={index} className='max-w-26'>
