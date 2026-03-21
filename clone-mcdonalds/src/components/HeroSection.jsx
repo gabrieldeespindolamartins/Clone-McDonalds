@@ -4,7 +4,7 @@ import OrderOption from './OrderOption'
 
 const HeroSection = () => {
   return (
-    <section className="relative bg-[url('background.png')] h-138 bg-cover bg-center color text-white ">
+    <section className="relative bg-[url('/background.png')] h-138 bg-cover bg-center color text-white ">
 
       <div className='z-0 absolute inset-0 bg-linear-to-r from-[#1C1C1C]/90  to-transparent'></div>
 
