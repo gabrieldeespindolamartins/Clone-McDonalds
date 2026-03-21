@@ -1,5 +1,4 @@
 import React from 'react'
-import { SwiperSlide } from 'swiper/react'
 
 const CardComponent = ({src , text}) => {
   return (
